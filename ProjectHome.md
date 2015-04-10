@@ -1,0 +1,1 @@
+A PHP script (and accompanying data structures) for taking a snapshot of the WoW (World of Warcraft) Auction house and storing it in a MySQL Database.
